@@ -66,7 +66,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn ipywidgets
   * Logistic Regression: coefficient magnitudes and signs.
   * Random Forest: feature importance rankings.
 
-* Actual metric values will be printed in the notebook after training/evaluation cells are executed.
+**Actual metric values will be printed in the notebook after training/evaluation cells are executed.
 
 ---
 
