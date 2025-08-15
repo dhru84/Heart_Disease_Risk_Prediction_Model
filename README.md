@@ -10,7 +10,7 @@ The model is implemented in Python using **Pandas**, **NumPy**, and **Scikit-lea
 ## Project Overview
 
 * **Goal:** Predict the probability of heart disease risk based on clinical parameters.
-* **Dataset:** `data_cardiovascular_risk.csv`
+* **Dataset:** `cardiovascular_risk.csv`
   The dataset includes multiple medical and lifestyle-related features.
 * **Machine Learning Model:** Logistic Regression
 * **Evaluation Metrics:** Accuracy Score, Classification Report, Confusion Matrix
