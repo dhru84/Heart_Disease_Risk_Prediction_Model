@@ -31,12 +31,13 @@ The model is implemented in Python using **Pandas**, **NumPy**, and **Scikit-lea
 3. **Model Training**
 
    * Train a **Logistic Regression** model on the training set.
-4. **Model Evaluation**
-
-   * Baseline Logistic Regression.
    * Random Forest Classifier with tuned n_estimators and fixed random_state for reproducibility.
    * Cross-validation using StratifiedKFold.
-5. **Prediction**
+4. **Model Evaluation**
+
+   * Accuracy, ROC-AUC, precision, recall, F1-score.
+   * Confusion matrix and ROC curve plots.
+6. **Prediction**
 
    * Predict heart disease risk for unseen data.
 
